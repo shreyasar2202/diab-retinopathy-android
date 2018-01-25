@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zeiss Eye Care</string>
+    <string name="login_prompt">Choose a login type</string>
+
+    <string-array name="login_arrays">
+        <item>Patient</item>
+        <item>Doctor</item>
+    </string-array>
+</resources>

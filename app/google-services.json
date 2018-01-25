@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "693326294650",
+    "firebase_url": "https://zeiss-31a92.firebaseio.com",
+    "project_id": "zeiss-31a92",
+    "storage_bucket": "zeiss-31a92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693326294650:android:9626dc5227bb203b",
+        "android_client_info": {
+          "package_name": "com.example.eye.zeisseyecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693326294650-iu64qplocf2ljeg2dpfht4oglbfk2o27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eye.zeisseyecare",
+            "certificate_hash": "0073f3f9c4060ae1360d7c6f88103fe36fa2c768"
+          }
+        },
+        {
+          "client_id": "693326294650-jro2l06ebde44453kafa39nvr9d9j7gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcuvNdpMUpuPmOqDLGAAX4Pcgq6v03t0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693326294650-jro2l06ebde44453kafa39nvr9d9j7gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
